@@ -1,2 +1,2 @@
 # dogestat
-Dogecoin price ticket utility.
+Dogecoin price ticker utility.
